@@ -38,8 +38,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 -->
 
 
-<blockquote> </blockquote>
-<blockquote> </blockquote>
+<br> </br>
 
   <header class="post-header">
     <h2 class="post-title">Working papers</h2>
@@ -49,8 +48,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 
 "Investor Inattention, Information, and Firm Investment" (November 2021)
 
-<blockquote> </blockquote>
-<blockquote> </blockquote>
+<br> </br>
 
   <header class="post-header">
     <h2 class="post-title">Teaching</h2>
