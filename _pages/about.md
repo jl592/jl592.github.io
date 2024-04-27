@@ -53,7 +53,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 <blockquote> </blockquote>
 
   <header class="post-header">
-    <h2 class="post-title">teaching</h2>
+    <h2 class="post-title">Teaching</h2>
   </header>
 
 City University of Hong Kong:
