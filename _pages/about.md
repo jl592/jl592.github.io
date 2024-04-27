@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome! I am an Assistant Professor in Finance at City University of Hong Kong.
+Welcome! I am an Assistant Professor in Finance at the City University of Hong Kong.
 
 My research interests include finance theory and information economics, with a focus on limited attention, information acquisition, and learning.
 
