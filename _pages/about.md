@@ -42,7 +42,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 
   <header class="post-header">
     <h2 class="post-title">Working papers</h2>
-    <p></p>
+    <p class="desc"> </p>
   </header>
 
 "[Content Bias and Information Compression](/contentbiasapr2024.pdf)" (November 2021; latest draft: April 2024)
@@ -53,7 +53,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 
   <header class="post-header">
     <h2 class="post-title">Teaching</h2>
-    <p></p>
+    <p class="desc"> </p>
   </header>
 
 City University of Hong Kong:
