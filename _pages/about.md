@@ -47,7 +47,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 
 "[Content Bias and Information Compression](/contentbiasapr2024.pdf)" (November 2021; latest draft: April 2024)
 
-"Investor Inattention, Information, and Firm Investment" (November 2021)
+"[Investor Inattention, Information, and Firm Investment](/InattentionInv11202021.pdf)" (November 2021)
 
 <br> 
 
