@@ -45,7 +45,8 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
     <p class="desc"> </p>
   </header>
 
-"[Content Bias and Information Compression](/ContentBiasNov12.pdf)" (November 2024)
+"[Content Bias and Information Compression](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005665)" (May 2025)
+(formerly titled "Content Bias and Information Compression")
 
 "Investor Inattention, Information, and Firm Investment" (November 2021, available upon request) (New draft coming soon)
 
@@ -57,5 +58,6 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
   </header>
 
 City U of Hong Kong:
-Instructor and Course Leader, (UG) Derivatives and Risk Management, F2022, F2023
+Instructor and Course Leader, (UG) Derivatives and Risk Management, F2022, F2023, F2024
+Instructor, (PhD) Theoretical Corporate Finance, S2025
 
