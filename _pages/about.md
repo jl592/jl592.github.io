@@ -59,5 +59,6 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
 
 City U of Hong Kong:
 Instructor and Course Leader, (UG) Derivatives and Risk Management, F2022, F2023, F2024
+
 Instructor, (PhD) Theoretical Corporate Finance, S2025
 
