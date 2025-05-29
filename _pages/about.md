@@ -57,7 +57,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
     <p class="desc"> </p>
   </header>
 
-"An Anatomy of Financial News Sentiment: Theory and Evidence", with Hao Pang (Paper coming soon)
+"An Anatomy of Financial News Sentiment: Theory and Evidence" with Hao Pang (Paper coming soon)
 
 <br> 
 
