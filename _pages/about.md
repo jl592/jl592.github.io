@@ -45,7 +45,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
     <p class="desc"> </p>
   </header>
 
-"[Information Selection and Media Bias: An Economic Foundation for Sentiment Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005665)" (May 2025)
+"[Information Selection and Media Bias: A Theory of Sentiment Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005665)" (July 2026)
 (formerly titled "Content Bias and Information Compression")
 
 "Investor Inattention, Information, and Firm Investment" (November 2021, available upon request) (New draft coming soon)
@@ -57,7 +57,9 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
     <p class="desc"> </p>
   </header>
 
-"An Anatomy of Financial News Sentiment: Theory and Evidence" with Hao Pang (Paper coming soon)
+"Turning The Tables: Security Design Under Alternating Bargaining Power" with Feifan Zhang
+
+"An Anatomy of Financial News Sentiment: Theory and Evidence" with Hao Pang
 
 <br> 
 
@@ -67,7 +69,7 @@ Reach me at: [jingeliu@cityu.edu.hk](mailto:jingeliu@cityu.edu.hk)
   </header>
 
 City U of Hong Kong:
-Instructor and Course Leader, (UG) Derivatives and Risk Management, F2022, F2023, F2024
+Instructor and Course Leader, (UG) Derivatives and Risk Management, F2022, F2023, F2024, F2025
 
 Instructor, (PhD) Theoretical Corporate Finance, S2025
 
